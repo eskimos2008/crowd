@@ -21,3 +21,6 @@
 
 /* registration information: Street */
 "street" = "Street";
+
+/* registration information: House */
+"house" = "House";
