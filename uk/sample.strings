@@ -15,3 +15,6 @@
 
 /* registration information: Country */
 "country" = "Country";
+
+/* registration information: Country */
+"city" = "City";
