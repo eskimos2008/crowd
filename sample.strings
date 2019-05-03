@@ -16,5 +16,8 @@
 /* registration information: Country */
 "country" = "Country";
 
-/* registration information: Country */
+/* registration information: City */
 "city" = "City";
+
+/* registration information: Street */
+"street" = "Street";
