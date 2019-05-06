@@ -1,0 +1,28 @@
+/* registration information: Username */
+"username" = "Username:";
+
+/* registration information: Password */
+"password" = "Password:";
+
+/* registration information: Email Address */
+"email_address" = "Email Address:";
+
+/* registration information: User Role */
+"user_role" = "User Role";
+
+/* registration information: Phone */
+"phone" = "Phone";
+
+/* registration information: Country */
+"country" = "Country";
+
+/* registration information: City */
+"city" = "City";
+
+/* registration information: Street */
+"street" = "Street";
+
+/* registration information: House */
+"house" = "House";
+
+"house2222" = "rtyrty";
