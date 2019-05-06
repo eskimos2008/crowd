@@ -1,22 +1,22 @@
 /* registration information: Username */
-"username" = "Username:";
+"username" = "Ім'я користувача:";
 
 /* registration information: Password */
-"password" = "Password:";
+"password" = "Пароль:";
 
 /* registration information: Email Address */
-"email_address" = "Email Address:";
+"email_address" = "Adresse e-mail:";
 
 /* registration information: User Role */
-"user_role" = "User Role";
+"user_role" = "Роль користувача";
 
 /* registration information: Phone */
-"phone" = "Phone";
+"phone" = "Телефон";
 
 /* registration information: Country */
-"country" = "Country";
+"country" = "Країна";
 
 /* registration information: City */
-"city" = "City";
+"city" = "Місто";
 
-"city333" = "City333";
+"city333" = "blablabla";
