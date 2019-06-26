@@ -2,7 +2,14 @@ files:
   - source: '/transfolder4/*.de.xlf'
     translation: /transfolder4/%file_name%.%two_letters_code%.xlf
     translation_replace: {
-        "de." : "gurk"
+      "de." : "gurk"
     }
     content_segmentation: 0
     translatable_elements: /xliff/file/body/trans-unit/target
+    language_mapping: {
+      two_letters_code: {
+        "de": "de",
+        "uk": "uk"
+      }
+    }
+    "update_option" : "update_as_unapproved"
