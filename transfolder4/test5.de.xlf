@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="de" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="1">
+                <source>why.yu.not.work</source>
+                <target>Die Daten wurden erfolgreich übermittelt und gespeiche123rt.</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>why.yu.not.work.2</source>
+                <target>Änderungen wurden erfolgreich aktualisiert und gespeich3233ert.</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>why.yu.not.work.3</source>
+                <target>Why you 123work?</target>
+            </trans-unit>			
+        </body>
+    </file>
+</xliff>
