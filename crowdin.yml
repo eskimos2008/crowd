@@ -1,3 +1,4 @@
+"preserve_hierarchy": true
 files:
   - source: '/transfolder4/*.de.xlf'
     translation: /transfolder4/%file_name%.%two_letters_code%.xlf
