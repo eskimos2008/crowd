@@ -6,7 +6,7 @@ files:
     }
     content_segmentation: 0
     translatable_elements: /xliff/file/body/trans-unit/target
-    language_mapping: {
+    languages_mapping: {
       two_letters_code: {
         "de": "de",
         "uk": "uk"
