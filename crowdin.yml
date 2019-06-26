@@ -4,3 +4,5 @@ files:
     translation_replace: {
         "de." : "gurk"
     }
+    content_segmentation: 0
+    translatable_elements: /xliff/file/body/trans-unit/target
