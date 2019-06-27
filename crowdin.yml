@@ -3,5 +3,5 @@ files:
   - source: '*.strings'
     translation: /%file_name%.%two_letters_code%.%file_extension%
     update_option: update_as_unapproved
-    translation_replace:
+    translation_replace: &ref_.de
       .de: 
