@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="uk">
+    <body>
+      <trans-unit id="1">
+        <source>why.yu.not.work</source>
+        <target state="translated">why.yu.not.workqwdwqdwqdwqdwqd11111</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>why.yu.not.work.2</source>
+        <target state="needs-translation">why.yu.not.work.2</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>why.yu.not.work.3</source>
+        <target state="needs-translation">why.yu.not.work.3</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
