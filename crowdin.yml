@@ -1,6 +1,6 @@
 preserve_hierarchy: true
 files:
-  - source: '*.yml'
+  - source: '*.xml'
     ignore:
-      - '*.*.yml'
+      - '*.*.xml'
     translation: /%file_name%.%two_letters_code%.%file_extension%
