@@ -1,6 +1,0 @@
-preserve_hierarchy: true
-files:
-  - source: '*.xml'
-    ignore:
-      - '*.*.xml'
-    translation: /%file_name%.%two_letters_code%.%file_extension%
